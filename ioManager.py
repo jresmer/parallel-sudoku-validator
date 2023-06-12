@@ -9,3 +9,7 @@ class IOManager:
     @staticmethod
     def get_input() -> tuple: # file_name: str, n_processes: int, n_threads: int
         pass
+    
+    @staticmethod
+    def print_results(results: list) -> None:
+        pass
